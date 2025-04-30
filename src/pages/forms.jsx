@@ -4,6 +4,7 @@ import { FaFileDownload, FaSearch, FaFolderOpen } from "react-icons/fa";
 import HeroComp from "@/components/HeroComp";
 
 const formsData = [
+  { title: "Audited Accounts", file: "/forms/Stock Market Mandate.pdf" },
   { title: "Stock Market Mandate", file: "/forms/Stock Market Mandate.pdf" },
   {
     title: "Notice New KYC Requirements June 2017",
