@@ -48,7 +48,10 @@ const Navbar = () => {
                 <a href="/investment-process">Investment Process</a>
               </li>
               <li>
-                <a href="/prices">Perfomance</a>
+                <a href="/prices">Performance</a>
+              </li>
+              <li>
+                <a href="/auditedaccounts">Audited Accounts</a>
               </li>
               <li>
                 <a href="/forms">Forms</a>
@@ -119,6 +122,14 @@ const Navbar = () => {
                 Perfomance
               </a>
             </li>
+            <li>
+            <a
+              href="/auditedaccounts"
+              className="hover:bg-teal-600/20 rounded-none ease-in-out transition duration-200"
+            >
+              Audited Accounts
+            </a>
+          </li>
             <li>
               <a
                 href="/forms"
